@@ -57,6 +57,7 @@ body {
 	background: url('assets/splash.png') no-repeat right bottom;
 	z-index: -1;
 	filter: grayscale(0.3);
+	background-size: contain;
 }
 #splash #backgroundCanvas {
 	position: absolute;
