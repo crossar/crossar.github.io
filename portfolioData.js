@@ -9,9 +9,9 @@ export const projectDetails = {
 	list: [
 		{
 			title: '--',
-			logo: 'assets/logos/anthroware.svg',
+			logo: 'assets/logos/',
 			description: ['--', '--'],
-			comment: '-- [November 2021 - July 2024]',
+			comment: '-- ',
 		},
 	],
 };
@@ -22,28 +22,8 @@ export const services = {
 		`I offer a range of software development services, with a
     focus on creating tailored solutions that fit your business
     needs.`,
-		`Whether you're a startup looking to bring a new product to
-    life, or an established company needing to modernize a
-    legacy system, I've got you covered.`,
-		`Here's a bit of what I can do:`,
 	],
-	list: [
-		`<span class="highlight">Full-Stack Development:</span>
-      Building responsive, scalable applications using
-      JavaScript, React, Node.js, and more.`,
-		`<span class="highlight">Cloud Solutions:</span>
-      Designing and deploying cloud infrastructure with AWS,
-      Azure, and GCP.`,
-		`<span class="highlight">Microservices & APIs:</span>
-      Creating robust, efficient microservice architectures
-      and RESTful APIs.`,
-		`<span class="highlight">System Modernization:</span>
-      Bringing legacy systems up to speed with modern
-      technology, without missing a beat.`,
-		`<span class="highlight">Technical Leadership:</span>
-      Leading development teams, mentoring, and delivering
-      complex projects from concept to deployment.`,
-	],
+	list: [],
 	outro: `If you’re looking for a reliable partner to solve tough
     technical challenges or build something new, let's talk.`,
 };
