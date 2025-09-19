@@ -143,9 +143,9 @@ export const compile = async ({ index }) => {
 	const dom = new JSDOM(index);
 	const { document } = dom.window;
 
-	addAbout({ document });
-	addProjects({ document });
-	addServices({ document });
+	// addAbout({ document });
+	// addProjects({ document });
+	// addServices({ document });
 
 	// inlineElements({ document });
 
